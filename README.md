@@ -15,3 +15,6 @@ video [video]: The url link to your video (e.g. your presentation in the confere
 desc: Specify something which is normally shown in your resume/website but won't appear in bibtex file (e.g. oral presentation or short paper).
 
 sum: A brief summary of your work
+
+## The fields/text will become bold on the website
+title, desc, and any text inside a parenthesis in the booktitle or journal field.
