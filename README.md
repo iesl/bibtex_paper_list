@@ -1,5 +1,7 @@
 # Bibtex file for the lab website:
 
+**The record order in the bibtex file does not correpond to the default order of the website. The default order is sorted by the year of publication, so the newly added papers will be close to the top of the list but it does not necessarily become the top 1.**
+
 ## Necessary fields:
 author, title, year, booktitle for inproceedings (conference paper), journal for article (joural or arXiv paper).
 
